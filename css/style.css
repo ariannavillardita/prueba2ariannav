@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,800&display=swap');
+
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 14px;
+	color: #666;
+}
+
+#slides{
+	text-align: center;
+	
+}
+.title{
+	text-align: center;
+	
+}
+.subtitle{
+	text-align: center;
+
+}
+
+.title{
+	padding: 5% 0;
+}
+
+#sec-work{
+	padding: 20% 0;
+}
+#sec-counter{
+	background-image: url("../img/slider-bg-1.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding: 130px 0;
+	color: #FFFFFF;
+}
+
+.icon{
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	background-color: #28d1a2;
+	color: #99CC33;
+	border: 1px solid #21AF87;
+	display: block;
+	text-align: center;
+	margin-bottom: 20xp;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+}
+
+footer{
+	background-color: #1b222c;
+	padding: 15px 0;
+	color: #9e9e9e;
+}
